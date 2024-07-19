@@ -107,7 +107,7 @@
   reference-signs: none,
   
   page-numbering: (current-page, page-count) => {
-    "Page " + str(current-page) + " of " + str(page-count)
+    "Seite " + str(current-page) + " von " + str(page-count)
   },
 
   margin: (
@@ -508,7 +508,7 @@
   subject: none,
 
   page-numbering: (current-page, page-count) => {
-    "Page " + str(current-page) + " of " + str(page-count)
+    "Seite " + str(current-page) + " von " + str(page-count)
   },
 
   margin: (
